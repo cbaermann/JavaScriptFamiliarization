@@ -30,7 +30,7 @@
 //     return n*(n+1)/2
 // }
 
-// console.log(sumNumbers(1000000));
+// console.log(sumNumbers(100000000));
 
 
 //Interval counter to display console.log per interval
